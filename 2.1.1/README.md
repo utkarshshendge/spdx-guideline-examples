@@ -1,0 +1,1 @@
+2.1.1 Guideline:  Verbatim Text  License and exception text should be the same verbatim text (except for the guidelines stated here). The text should be in the same order, e.g., differently ordered paragraphs would not be considered a match.

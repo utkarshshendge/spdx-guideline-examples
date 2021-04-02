@@ -1,0 +1,9 @@
+License:        NOASSERTION
+Matched files:  LICENSE.txt
+LICENSE.txt:
+  Content hash:  8cd3545cfee20f98c71aa961f3ac898f7f5af36b
+  License:       NOASSERTION
+  Closest non-matching licenses:
+    ISC similarity:    87.94%
+    0BSD similarity:   84.93%
+    MIT-0 similarity:  45.00%

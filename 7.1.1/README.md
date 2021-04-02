@@ -1,0 +1,1 @@
+7.1.1 Guideline:  Where a line starts with a bullet, number, letter, or some form of a list item (determined where list item is followed by a space, then the text of the sentence), ignore the list item for matching purposes. Templates do not include markup for this guideline.

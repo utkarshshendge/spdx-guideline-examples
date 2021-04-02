@@ -1,0 +1,1 @@
+3.1.1 Guideline:  All whitespace should be treated as a single blank space. Templates do not include markup for this guideline.

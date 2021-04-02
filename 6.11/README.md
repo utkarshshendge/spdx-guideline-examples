@@ -1,0 +1,1 @@
+6.1.1 Guideline:  Any kind of code comment indicator or prefix which occurs at the beginning of each line in a matchable section should be ignored for matching purposes. Templates do not include markup for this guideline.

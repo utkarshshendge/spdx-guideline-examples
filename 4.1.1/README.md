@@ -1,0 +1,1 @@
+4.1.1 Guideline:  All upper case and lower case letters should be treated as lower case letters. Templates do not include markup for this guideline.

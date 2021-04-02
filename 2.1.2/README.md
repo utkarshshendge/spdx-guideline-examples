@@ -1,0 +1,1 @@
+2.1.2 Guideline:   No Additional Text Matched text should only include that found in the vetted license or exception text. Where a license or exception found includes additional text or clauses, this should not be considered a match.

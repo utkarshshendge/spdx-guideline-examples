@@ -1,0 +1,1 @@
+9.1.1 Guideline:  “©”, “(c)”, or “Copyright” should be considered equivalent and interchangeable. Templates do not include markup for this guideline.

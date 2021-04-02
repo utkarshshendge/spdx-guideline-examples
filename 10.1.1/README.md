@@ -1,0 +1,1 @@
+10.1.1 Guideline:  Ignore copyright notices. A copyright notice consists of the following elements, for example: “2012 Copyright, John Doe. All rights reserved.” or “(c) 2012 John Doe.” Templates may or may not include markup for this guideline.

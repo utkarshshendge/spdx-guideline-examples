@@ -1,0 +1,1 @@
+11.1.1 Guideline:  Ignore the license name or title for matching purposes, so long as what ignored is the title only and there is no additional substantive text added here. Templates do not include markup for this guideline.
