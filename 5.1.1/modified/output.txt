@@ -1,0 +1,7 @@
+License:        MIT
+Matched files:  LICENSE.txt
+LICENSE.txt:
+  Content hash:  f04bc2e4cd109ecea075e8a20f8c22fcb9c5d218
+  Confidence:    100.00%
+  Matcher:       Licensee::Matchers::Exact
+  License:       MIT

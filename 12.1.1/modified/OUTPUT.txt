@@ -1,0 +1,7 @@
+License:        AGPL-3.0
+Matched files:  LICENSE.txt
+LICENSE.txt:
+  Content hash:  fe54550c13c9488955699784a6a161a7eb70d64d
+  Confidence:    100.00%
+  Matcher:       Licensee::Matchers::Exact
+  License:       AGPL-3.0

@@ -1,0 +1,8 @@
+License:        BSD-3-Clause
+Matched files:  LICENSE.txt
+LICENSE.txt:
+  Content hash:  a961b19cc6921d510e29a13b0ba1a826fcffe41c
+  Attribution:   Copyright (c) <2077> <CYBERPUNK>. All jelly beans .
+  Confidence:    100.00%
+  Matcher:       Licensee::Matchers::Exact
+  License:       BSD-3-Clause

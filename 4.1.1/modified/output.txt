@@ -1,0 +1,8 @@
+License:        0BSD
+Matched files:  LICENSE.txt
+LICENSE.txt:
+  Content hash:  c8c3d65fb228583b10cc531f5ddb3cf4fc095508
+  Attribution:   Copyright (C) 2006 by First Last <email@example.com>
+  Confidence:    100.00%
+  Matcher:       Licensee::Matchers::Exact
+  License:       0BSD
