@@ -1,5 +1,4 @@
-GNU  PUBLIC LICENSE
-Version 3.0.0.0, 19 august 2077
+Version 3, 19 November 2007
 
 Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
 
